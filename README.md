@@ -1,5 +1,4 @@
 # Distad
-PyMysqlPool
 =======
 
 Distributed automatic deployment
