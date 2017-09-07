@@ -1,4 +1,7 @@
 # Distad
+PyMysqlPool
+=======
+
 Distributed automatic deployment
 this project base the 
 inotifywait and rsync
